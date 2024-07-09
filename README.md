@@ -1,4 +1,9 @@
-**Develope Your Chatbot with Couchbase**
+**Obsolete Repo**
+
+There is an updated version of the repo. Please visit [sillyjason/chatbot-cb-2](https://github.com/sillyjason/chatbot-cb-2)
+
+
+# Develope Your Chatbot with Couchbase
 
 
 Couchbase is a memory-first, performant NoSQL data platform providing services including kv, sql query, full-text & vector search, real-time analytics and mobile capabilities. You can build enterprise grade, scalable applications and innovate faster. 
