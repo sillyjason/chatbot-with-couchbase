@@ -1,6 +1,11 @@
-**Obsolete Repo**
+
+
+# Obsolete Repo 
 
 There is an updated version of the repo. Please visit [sillyjason/chatbot-cb-2](https://github.com/sillyjason/chatbot-cb-2)
+
+
+<br><br>
 
 
 # Develope Your Chatbot with Couchbase
